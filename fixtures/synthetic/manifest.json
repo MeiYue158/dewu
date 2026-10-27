@@ -1,0 +1,24 @@
+{
+  "generator": "synthesize_products.py",
+  "version": 1,
+  "generated_at": "2026-10-25",
+  "deterministic": true,
+  "overlay_products": 103,
+  "filled_descriptions": 103,
+  "filled_subtitles": 103,
+  "filled_sku_prices": 76,
+  "digital_spus": 18,
+  "digital_categories": [
+    "头戴式耳机",
+    "智能手表",
+    "机械键盘",
+    "真无线耳机",
+    "移动电源",
+    "蓝牙音箱"
+  ],
+  "digital_brands_are_fictional": true,
+  "excluded_from_embeddings": [
+    "description",
+    "subtitle"
+  ]
+}

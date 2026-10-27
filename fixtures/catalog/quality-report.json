@@ -1,0 +1,241 @@
+{
+  "files": 121,
+  "accepted": 121,
+  "repaired_files": [
+    {
+      "file": "13586450.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 5015,
+          "original_value": "\"大身：聚酯纤维 56%/聚酯复合弹性纤维 44%   (装饰部"
+        }
+      ]
+    },
+    {
+      "file": "13607422.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 6660,
+          "original_value": "\"棉92% / 聚酯复合弹性纤维7% /    1% 氨纶\""
+        }
+      ]
+    },
+    {
+      "file": "13876611.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 5057,
+          "original_value": "\"大身：80% 聚酯纤维/10%粘纤/10%晴纶   （装饰部分"
+        }
+      ]
+    },
+    {
+      "file": "15585266.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 5140,
+          "original_value": "\"面料： 棉84% 聚酯纤维15% 氨纶1% 里料：聚酯纤维10"
+        }
+      ]
+    },
+    {
+      "file": "1882598.json",
+      "repairs": [
+        {
+          "kind": "accept_literal_control_characters"
+        }
+      ]
+    },
+    {
+      "file": "20066964.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 6202,
+          "original_value": "全掌碳板 \" 匹克态极科技\""
+        }
+      ]
+    },
+    {
+      "file": "21134504.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 11911,
+          "original_value": "\"contaGRIP 高性能抓地大底\""
+        }
+      ]
+    },
+    {
+      "file": "21669427.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 9684,
+          "original_value": "\" CW2288-111（Team779-男女 卯兔添喜）DH2"
+        }
+      ]
+    },
+    {
+      "file": "24336110.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 8992,
+          "original_value": "Lightstrike Pro中底科技 \"CONTINENTAL"
+        }
+      ]
+    },
+    {
+      "file": "24830964.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 5700,
+          "original_value": "\"SHOE MIDSOLE\"，N40"
+        }
+      ]
+    },
+    {
+      "file": "25126715.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 8139,
+          "original_value": "\" Altra EGO™ MAX（轮辋）和 Altra EGO™"
+        }
+      ]
+    },
+    {
+      "file": "27266344.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 5388,
+          "original_value": "\"PWRRUN SRS鞋垫\""
+        }
+      ]
+    },
+    {
+      "file": "3074865.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 2265,
+          "original_value": "\"防尘袋必备；原盒根据规格选择； 基础装:包+防尘袋\""
+        }
+      ]
+    },
+    {
+      "file": "7465634.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 7735,
+          "original_value": "\"非珠宝：包装盒+防尘袋 K金珠宝：首饰挂板+首饰盒+包装盒\""
+        }
+      ]
+    },
+    {
+      "file": "8020349.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 2026,
+          "original_value": "\"【包装盒+海绵+防尘袋】或 【包装盒+饰品挂板】\""
+        }
+      ]
+    },
+    {
+      "file": "8104065.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 1823,
+          "original_value": "\"【包装盒+海绵+防尘袋】或 【包装盒+饰品挂板】\""
+        }
+      ]
+    },
+    {
+      "file": "8104125.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 1673,
+          "original_value": "\"【包装盒+海绵+防尘袋】或 【包装盒+饰品挂板】\""
+        }
+      ]
+    },
+    {
+      "file": "8104147.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 3677,
+          "original_value": "\"【包装盒+海绵+防尘袋】或 【包装盒+饰品挂板】\""
+        }
+      ]
+    },
+    {
+      "file": "8914735.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 2098,
+          "original_value": "\"【包装盒+海绵+防尘袋】或 【包装盒+饰品挂板】\""
+        }
+      ]
+    },
+    {
+      "file": "8966089.json",
+      "repairs": [
+        {
+          "kind": "escape_property_value_quotes",
+          "offset": 10497,
+          "original_value": "\"慈善款：包装盒+保卡+首饰防尘袋+保修卡套 非慈善款：包装盒+"
+        }
+      ]
+    }
+  ],
+  "rejected": [],
+  "categories": {
+    "手链": 14,
+    "项坠/吊坠": 6,
+    "欧美表": 3,
+    "项链": 25,
+    "衬衫": 2,
+    "牛仔裤": 1,
+    "羽绒服": 1,
+    "手镯": 6,
+    "戒指": 14,
+    "耳环": 4,
+    "跑步鞋": 7,
+    "板鞋": 2,
+    "乐福鞋": 1,
+    "儿童凉鞋": 1,
+    "儿童足球鞋": 1,
+    "洞洞鞋": 1,
+    "T恤": 1,
+    "儿童板鞋": 1,
+    "耳钉": 10,
+    "瑞表": 1,
+    "双肩包": 1,
+    "真无线耳机": 3,
+    "头戴式耳机": 3,
+    "智能手表": 3,
+    "机械键盘": 3,
+    "移动电源": 3,
+    "蓝牙音箱": 3
+  },
+  "empty_descriptions": 0,
+  "sku_count": 673,
+  "unresolved_sku_properties": 0,
+  "max_embedding_characters": 353,
+  "synthetic_products": 18,
+  "synthetic_field_products": 103,
+  "synthetic_sku_prices": 76
+}

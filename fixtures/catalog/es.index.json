@@ -1,0 +1,95 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "index.query.default_field": [
+      "title",
+      "attributes_text"
+    ]
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "product_id": {
+        "type": "keyword"
+      },
+      "spu_id": {
+        "type": "keyword"
+      },
+      "category": {
+        "type": "keyword"
+      },
+      "category_id": {
+        "type": "keyword"
+      },
+      "category_path_ids": {
+        "type": "keyword"
+      },
+      "brand_names": {
+        "type": "keyword"
+      },
+      "brand_id": {
+        "type": "keyword"
+      },
+      "brand_key": {
+        "type": "keyword"
+      },
+      "brand_display": {
+        "type": "keyword"
+      },
+      "color_keys": {
+        "type": "keyword"
+      },
+      "material_keys": {
+        "type": "keyword"
+      },
+      "article_number": {
+        "type": "keyword"
+      },
+      "release_date_raw": {
+        "type": "keyword"
+      },
+      "title": {
+        "type": "text",
+        "analyzer": "cjk"
+      },
+      "attributes_text": {
+        "type": "text",
+        "analyzer": "cjk"
+      },
+      "description": {
+        "type": "text",
+        "index": false
+      },
+      "subtitle": {
+        "type": "text",
+        "index": false
+      },
+      "image_url": {
+        "type": "text",
+        "index": false
+      },
+      "attributes": {
+        "type": "object",
+        "enabled": false
+      },
+      "skus": {
+        "type": "object",
+        "enabled": false
+      },
+      "size_info": {
+        "type": "object",
+        "enabled": false
+      },
+      "source": {
+        "type": "object",
+        "enabled": false
+      },
+      "auth_price_raw": {
+        "type": "long",
+        "index": false,
+        "doc_values": false
+      }
+    }
+  }
+}
